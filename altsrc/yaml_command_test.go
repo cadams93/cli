@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/micro/cli"
+	"github.com/divisionone/cli"
 )
 
 func TestCommandYamlFileTest(t *testing.T) {

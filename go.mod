@@ -1,3 +1,3 @@
-module github.com/micro/cli
+module github.com/divisionone/cli
 
 require gopkg.in/yaml.v2 v2.2.2

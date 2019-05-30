@@ -12,7 +12,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/micro/cli"
+	"github.com/divisionone/cli"
 
 	"gopkg.in/yaml.v2"
 )
