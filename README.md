@@ -1,4 +1,4 @@
-# CLI [![GoDoc](https://godoc.org/github.com/micro/cli?status.svg)](https://godoc.org/github.com/micro/cli)
+# CLI [![GoDoc](https://godoc.org/github.com/divisionone/cli?status.svg)](https://godoc.org/github.com/divisionone/cli)
 
 CLI is a fork of `codegangsta/cli`. We use it to simplify flag parsing.
 
@@ -14,7 +14,7 @@ Make sure you have a working Go environment (go 1.1+ is *required*). [See the in
 
 To install `cli.go`, simply run:
 ```
-$ go get github.com/micro/cli
+$ go get github.com/divisionone/cli
 ```
 
 Make sure your `PATH` includes to the `$GOPATH/bin` directory so your commands can be easily used:
@@ -31,7 +31,7 @@ package main
 
 import (
   "os"
-  "github.com/micro/cli"
+  "github.com/divisionone/cli"
 )
 
 func main() {
@@ -46,7 +46,7 @@ package main
 
 import (
   "os"
-  "github.com/micro/cli"
+  "github.com/divisionone/cli"
 )
 
 func main() {
@@ -74,7 +74,7 @@ package main
 
 import (
   "os"
-  "github.com/micro/cli"
+  "github.com/divisionone/cli"
 )
 
 func main() {
@@ -188,7 +188,7 @@ app.Action = func(c *cli.Context) {
 ...
 ```
 
-See full list of flags at http://godoc.org/github.com/micro/cli
+See full list of flags at http://godoc.org/github.com/divisionone/cli
 
 #### Alternate Names
 

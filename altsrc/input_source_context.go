@@ -3,7 +3,7 @@ package altsrc
 import (
 	"time"
 
-	"github.com/micro/cli"
+	"github.com/divisionone/cli"
 )
 
 // InputSourceContext is an interface used to allow
